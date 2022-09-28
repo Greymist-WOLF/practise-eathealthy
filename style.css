@@ -1,0 +1,121 @@
+body{
+    margin: 0%;
+}
+.p1{
+    display: flex;
+    width: 100%;
+}
+.color{
+    color: orange;
+}
+.w1{
+    width: 50%;
+    font-size: 20px;
+    padding-left: 10%;
+    
+    padding-top: 12%;
+
+}
+.male{
+    width:100%;
+}
+.w2{
+    width: 50%;
+    padding-right: 10%;
+    
+}
+.button1{
+    text-decoration: none;
+    background-image: -moz-linear-gradient(orange ,red);
+    padding: 10px 40px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 700;
+}
+.p2{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-size: 100%;
+    display: flex;
+    background-repeat: no-repeat;
+    width: 100%;
+    
+}
+.w3{
+    width: 50%;
+    padding-left: 10%;
+}
+.img1{
+    width:65%;
+    padding-left: 20%;
+}
+.w4{
+    width: 50%;
+    padding-top: 15%;
+    padding-left: 10%;
+}
+.w5{
+    text-align: center;
+    padding-top: 40px;
+}
+.p3{
+
+}
+.w6{
+    display: flex;
+    width: 50%;
+    margin: auto;
+   
+}
+.w7{
+    margin-right: 10px;
+    padding: 20px;
+    border-radius: 28px;
+    box-shadow: 0.5px 0.5px 20px rgba(22, 22, 22, 0.158);
+}
+.r1 img{
+    width: 100%;
+    
+    
+}
+.w8{
+    margin-left: 10px;
+    padding: 20px;
+    border-radius: 28px;
+    box-shadow: 0.5px 0.5px 20px rgba(22, 22, 22, 0.158);
+}
+.r2 img{
+    width: 100%;
+    
+}
+.steps1{
+    width: 100%;
+    
+}
+.steps2{
+    width: 100%;
+    
+}
+.w9{
+    
+}
+.w10{
+    padding: 0%;
+    margin: auto;
+    width: 30%;
+    display:flex;
+    list-style-type: none;
+    text-align: center;
+}
+.w11{
+    padding: 10px;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+.w12{
+    color: orange;
+}
